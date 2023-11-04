@@ -1,0 +1,25 @@
+header {
+    width: 25%;
+    float: left;
+    position: relative;
+    left: 10px;
+}
+
+aside { 
+    width: 25%;
+    float: left;
+    position: relative;
+    left: 20px;
+}
+
+main { 
+    width: 25%;
+    float: left;
+    position: relative;
+    left: 20px;
+}
+
+
+
+
+
